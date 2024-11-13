@@ -1,0 +1,17 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-color: black;
+    font-family: fantasy;
+}
+.main-container{
+    height:1000px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url("1053224.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
